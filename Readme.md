@@ -40,6 +40,3 @@ geth --datadir "./datadir" --networkid 100892 --bootnodes "enode://34a45ad7e22ef
 3. Geth client = latest on 6 May 2020
 
 
-
-## Feedback
-You can write to georgetagirov@gmail.com for any questions
